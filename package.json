@@ -1,7 +1,7 @@
 {
   "name": "codestory",
   "main": "./lib/atom-codestory",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This Atom plug-in provides Code Story integration",
   "keywords": [],
   "repository": "https://github.com/dperetti/atom-codestory",
