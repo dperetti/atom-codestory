@@ -1,0 +1,20 @@
+{
+  "name": "codestory",
+  "main": "./lib/atom-codestory",
+  "version": "0.2.0",
+  "description": "This Atom plug-in provides Code Story integration",
+  "keywords": [],
+  "repository": "https://github.com/dperetti/atom-codestory",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "providedServices": {
+    "hyperclick.provider": {
+      "versions": {
+        "0.0.0": "getProvider"
+      }
+    }
+  }
+}

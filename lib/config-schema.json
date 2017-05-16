@@ -1,0 +1,7 @@
+{
+  "codeStoryAppPath": {
+    "description": "Path to Code Story binary",
+    "type": "string",
+    "default": "/Applications/Code Story.app/Contents/MacOS/Code Story"
+  }
+}
